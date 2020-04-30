@@ -1,0 +1,11 @@
+@import 'app-header.css';
+@import 'post-list.css';
+@import 'post-list-item.css';
+@import 'post-status-filter.css';
+@import 'search-panel.css';
+@import 'post-add-form.css';
+
+.app {
+  margin: 0 auto;
+  max-width: 800px;
+}
